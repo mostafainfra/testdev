@@ -1,0 +1,14 @@
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.exe
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.deps.json
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.runtimeconfig.json
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.dll
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\bin\Debug\net8.0\HelloWorldApp.pdb
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfoInputs.cache
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.AssemblyInfo.cs
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.csproj.CoreCompileInputs.cache
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.dll
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\refint\HelloWorldApp.dll
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.pdb
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\HelloWorldApp.genruntimeconfig.cache
+E:\Nouveau dossier\Terraform\cicd\HelloWorldApp\obj\Debug\net8.0\ref\HelloWorldApp.dll
